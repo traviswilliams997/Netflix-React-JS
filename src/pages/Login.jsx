@@ -22,7 +22,7 @@ const Login = () => {
                    <p><input  className = 'mr-2' type="checkbox" />Remember me</p>
                    <p>Need Help?</p>
                </div>
-               <p className='p-8'><span className='text-gray-600'>New to Netflix></span>
+               <p className='p-8'><span className='text-gray-600'>New to Netflix</span>
                {' '}
                <Link to='/signup'>Sign Up</Link>
                </p>
